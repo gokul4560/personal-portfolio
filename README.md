@@ -44,8 +44,8 @@ You can reach out via:
 
 ## 📌 How to Run Locally
 
-```bash
-git clone https://github.com/yourusername/portfolio-website.git
+bash
+git clone https://github.com/gokul4560/portfolio-website.git
 cd portfolio-website
 open index.html
 
