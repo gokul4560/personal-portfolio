@@ -36,7 +36,7 @@ Optional integrations you can mention if used:
 
 You can reach out via:
 
-- ✉️ Email: gokul.yourname@email.com  
+- ✉️ Email: gokul.gokul101206@email.com  
 - 🌐 LinkedIn: [linkedin.com/in/gokulakrishnan](https://linkedin.com/in/gokulakrishnan)  
 - 📂 GitHub: [github.com/yourusername](https://github.com/gokul4560)
 
